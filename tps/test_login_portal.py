@@ -47,5 +47,4 @@ class TestLoginPortal:
 
         driver.quit()
 
-#cd C:\Users\user\Desktop\QA\qa\tps
-#python -m pytest -v test_login_portal.py
+#python -m pytest -v tps/test_login_portal.py
